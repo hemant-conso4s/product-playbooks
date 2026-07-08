@@ -106,7 +106,7 @@ Website: https://entmaz.com
 
 Status: coming soon
 
----
+--- 
 
 ## Operating Principle
 
